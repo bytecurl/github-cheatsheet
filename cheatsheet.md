@@ -4,7 +4,7 @@
 
 Git is the free and open source distributed version control system that’s responsible for everything GitHub related that happens locally on your computer. This cheat sheet features the most important and commonly used Git commands for easy reference.
 
-## `INSTALLATION & GUIS`
+## `INSTALLATION` & `GUIS`
 
 **With platform specific installers for Git, GitHub also provides the ease of staying up-to-date with the latest releases of the command line tool while providing a graphical user interface for day-to-day interaction, review, and repository synchronization.**
 
@@ -22,7 +22,7 @@ Git is the free and open source distributed version control system that’s resp
 
 [http://git-scm.com](http://git-scm.com)
 
-## `SETUP * CONFIGURE TOOLING`
+## `SETUP` * `CONFIGURE TOOLING`
 
 **Configuring user information used across all local repositories**
 
@@ -38,7 +38,7 @@ Set an email address that will be associated with each history marker
 
 Set automatic command line coloring for Git for easy reviewing
 
-## `INIT * CREATE REPOSITORIES`
+## `INIT` * `CREATE REPOSITORIES`
 
 **A new repository can either be created locally, or an existing repository can be cloned. When a repository was initialized locally, you have to push it to GitHub afterwards.**
 
@@ -54,7 +54,7 @@ Specifies the remote repository for your local repository. The url points to a r
 
 Retrieve or clone (download) a repository that already exists on GitHub, including all of the files, branches, and commits
 
-## `THE .GITIGNORE FILE`
+## `THE` `.gitignore` `FILE`
 
 > **Sometimes it may be a good idea to exclude files from being tracked with Git. This is typically done in a special file named .gitignore. You can find helpful templates for .gitignore files at [github.com/github/gitignore](https://github.com/github/gitignore).**
 
@@ -102,7 +102,7 @@ Merges or combines the specified branch’s history into the current branch. Thi
 
 Deletes the specified branch
 
-## `STAGE & SNAPSHOT`
+## `STAGE` & `SNAPSHOT`
 
 **Working with snapshots and the Git staging area git status show modified files in working directory, staged for your next commit**
 
@@ -142,7 +142,7 @@ Lists version history for the current branch
 
 Lists version history for a file, beyond renames (works only for a single file)
 
-## `INSPECT & COMPARE`
+## `INSPECT` & `COMPARE`
 
 **Examining logs, diffs and object information git log show the commit history for the currently active branch**
 
@@ -196,7 +196,7 @@ Save a file with desired patterns as .gitignore with either direct string matche
 
 System wide ignore pattern for all local repositories
 
-## `SHARE & UPDATE`
+## `SHARE` & `UPDATE`
 
 **Retrieving updates from another repository and updating local repos**
 
@@ -220,7 +220,7 @@ Transmit local branch commits to the remote repository branch
 
 Fetch and merge any commits from the tracking remote branch: Updates your current local working branch with all new commits from the corresponding remote branch on     GitHub. git pull is a combination of git fetch and git merge
 
-## `REWRITE HISTORY * REDO COMMITS`
+## `REWRITE HISTORY` * `REDO COMMITS`
 
 **Rewriting branches, updating commits and clearing history**
 
