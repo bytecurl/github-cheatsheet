@@ -1,4 +1,4 @@
-# In case you missed it: The official GitHub Git Cheat Sheet (Web & PDF) 
+# In case you missed it: The official GitHub Git Cheat Sheet (Combined from web version & PDF) 
 
 ![Image](/images/screenshot_github_com.png "Credits: GitHub, Inc. @ www.github.com")
 ## The GitHub Git Cheat Sheet in Markdown
